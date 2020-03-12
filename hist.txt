@@ -1,0 +1,16 @@
+  387  open space_pearson_out/hallagram_strongest_9.png
+  388  cp space_pearson_out/hallagram_strongest_9.png ../BGMP-HDC/hallagram_room_all.png
+  389  ls *
+  390  open space_drug_out/hallagram_strongest_9.png
+  391  open space_pearson_out/hallagram_strongest_9.png
+  392  ls
+  393  ls *
+  394  open test_out/hallagram_strongest_100_mask.png
+  395  ssh hpc
+  396  scp hpc:/projects/bgmp/byoutsey/mcguire_extra/ASV_pipeline_out/dada2_out/ASV-VT.tsv ~/Desktop
+  397  gzip ~/Desktop/ASV-VT.tsv
+  398  work
+  399  cd ~/Documents/BIO/
+  400  ls
+  401  cd motif-mark
+  402  ls

@@ -1,0 +1,5 @@
+
+REPO: https://github.com/byoutsey/motif-mark.git
+CANVAS: https://canvas.uoregon.edu/courses/145883/assignments/847030
+
+ ./motif_mark.py -f Figure_1.fasta -m Fig_1_motifs.txt
